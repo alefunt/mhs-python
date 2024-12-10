@@ -1,0 +1,15 @@
+> abcd1
+nopq1
+2024-12-10 23:47:45,427 - A received 'abcd1'
+2024-12-10 23:47:45,427 - B received 'abcd1'
+2024-12-10 23:47:45,427 - Main received 'nopq1'
+> abcd2
+2024-12-10 23:47:46,994 - A received 'abcd2'
+> abcd3
+2024-12-10 23:47:49,811 - A received 'abcd3'
+nopq2
+2024-12-10 23:47:50,428 - B received 'abcd2'
+2024-12-10 23:47:50,428 - Main received 'nopq2'
+2024-12-10 23:47:55,429 - B received 'abcd3'
+2024-12-10 23:47:55,429 - Main received 'nopq3'
+nopq3
